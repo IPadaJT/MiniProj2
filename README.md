@@ -11,12 +11,12 @@
 
 2. Clean: Drop NaN rows from dataset and merge DataFrames.
 
-3. Transform: Change dtypes of certain columns to match our needs, adjust columns and row values to better suit our needs and goals, 
+3. Transform: Change dtypes of certain columns to match our needs, adjust columns and row values to better suit our needs and goals.
 
 4. Load: Once all the data is prepared, create a final DataFrame to use.
 
 ![image](https://user-images.githubusercontent.com/117694350/227404699-5253ebdf-4c8a-4ed7-9ab2-64c89200ca9c.png)
 
-5. Analyze: In our case, we found information regarding individuals between our age range and printed that information. 
+5. Analyze: In our case, we found information regarding individuals between our age range and printed it.
 
 ![image](https://user-images.githubusercontent.com/117694350/227404917-7159f9ea-1be2-4733-a4f0-d89749367050.png)
